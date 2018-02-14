@@ -1,0 +1,146 @@
+﻿@model EatmEntityFramework.ViewModel.WithdrawViewModel
+@{
+    ViewBag.Title = "HomeOption";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<h2 class="centerlook">Verified Account</h2>
+
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PopUpBox</title>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/PopUpStyle.css" rel="stylesheet" />
+</head>
+<body>
+    @if (TempData["WithdrawError"] != null)
+    {
+        <div class="alert alert-danger" role="alert">
+            <button type="button" class="close" data-dismiss="alert">×</button>
+            <strong>Error !</strong> Invalid Withdraw Operation
+        </div>
+    }
+
+    @if (TempData["WithdrawSuccess"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            <button type="button" class="close" data-dismiss="alert">×</button>
+            <strong>Success !</strong> Withdraw Successfull
+        </div>
+    }
+    @if (TempData["TransactionLimit"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        <button type="button" class="close" data-dismiss="alert">×</button>
+        <strong>Error !</strong> Finished Daily Transaction Limit.
+    </div>
+}
+    <div class="container">
+        <div class="centerlook">
+            <button class="btn btn-primary OptionButtonProperty" data-keyboard="false" data-backdrop="static" data-target="#checkbalancepopup" data-toggle="modal"> Check Balance</button>
+        </div>
+
+        <div class="modal" role="dialog" id="checkbalancepopup" tabindex="-1">
+            <div class="modal-dialog modal-sm">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button class="close" data-dismiss="modal">&times;</button>
+                        <h3 class="modal-title">Available Balance</h3>
+                    </div>
+                    <div class="modal-body">
+                        <h5><strong>Balance :</strong>@Model.CurrentBalance</h5>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-danger" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="centerlook">
+            <button class="btn btn-primary OptionButtonProperty" data-keyboard="false" data-backdrop="static" data-toggle="modal" data-target="#withdrawbalancepopupbox">Withdraw Balance</button>
+        </div>
+        <div class="modal fade" role="dialog" id="withdrawbalancepopupbox" tabindex="-1">
+            <div class="modal-dialog modal-sm">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Withdraw Balance</h4>
+                    </div>
+                    <div class="modal-body">
+                        @using (Html.BeginForm("WithdrawResult", "Eatm"))
+                        {
+                            <div class="form-group">
+                                <label>Withdraw Amount</label>
+                                @Html.TextBoxFor(i => i.WithdrawAmount, new { @type = "number" })
+                                @Html.HiddenFor(m => m.Id)
+                                @Html.HiddenFor(m => m.CurrentBalance)
+                                <br />
+                                <button class="btn btn-danger pull-right" data-dismiss="modal">Close</button>
+                                <button class="btn btn-primary pull-right" type="submit" id="withdrawSubmit">Confirm</button>
+                            </div>
+                        }
+                    </div>
+                    <div class="modal-footer">
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="centerlook">
+            <button class="btn btn-primary OptionButtonProperty" data-keyboard="false" data-backdrop="static" data-target="#checktransactionpopup" data-toggle="modal">Transaction History</button>
+        </div>
+
+        <div class="modal" role="dialog" id="checktransactionpopup" tabindex="-1">
+            <div class="modal-dialog modal-sm">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button class="close" data-dismiss="modal">&times;</button>
+                        <h3 class="modal-title">Available Balance</h3>
+                    </div>
+                    <div class="modal-body">
+                        <table class="table">
+                            <thead>
+
+                            </thead>
+                            <tbody>
+                            <td>
+                                <h6><strong>Date</strong></h6>
+                            </td>
+                            <td>
+                                <h6> <strong>Amount</strong></h6>
+                            </td>
+                            @foreach (var transaction in Model.Transactions)
+                            {
+                                <tr>
+                                    <td>
+                                        <strong>@transaction.Date</strong>
+                                    </td>
+                                    <td>
+                                        <strong>@transaction.Amount</strong>
+                                    </td>
+                                </tr>
+                            }
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-danger" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</body>
+</html>

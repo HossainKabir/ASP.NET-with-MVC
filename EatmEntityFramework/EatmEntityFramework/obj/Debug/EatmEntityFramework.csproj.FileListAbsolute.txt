@@ -1,0 +1,407 @@
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\ApplicationInsights.config
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\roslyn\csc.exe
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\roslyn\vbc.exe
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\roslyn\VBCSCompiler.exe
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.dll.config
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.pdb
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Antlr3.Runtime.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\EntityFramework.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\EntityFramework.SqlServer.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.Web.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.ApplicationInsights.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Google.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Newtonsoft.Json.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Owin.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Helpers.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Mvc.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Optimization.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Razor.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.Deployment.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.Razor.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\WebGrease.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.Web.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.ApplicationInsights.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Helpers.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Mvc.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Optimization.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Razor.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.Deployment.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.Razor.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Antlr3.Runtime.pdb
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Newtonsoft.Json.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\EntityFramework.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\EntityFramework.SqlServer.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Google.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.csprojResolveAssemblyReference.cache
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.dll
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.pdb
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.InitialMigration.resources
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.csproj.GenerateResource.Cache
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccounts.resources
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccounts1.resources
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccountsRokyUser.resources
+c:\users\hossain kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.NameLengthAnnotation.resources
+C:\Users\Hossain Kabir\documents\visual studio 2015\Projects\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.BalanceAdded.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\ApplicationInsights.config
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.dll.config
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.pdb
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Antlr3.Runtime.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.Web.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Newtonsoft.Json.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Owin.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Optimization.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\WebGrease.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.Web.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Optimization.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Antlr3.Runtime.pdb
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Newtonsoft.Json.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.InitialMigration.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccounts.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccounts1.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccountsRokyUser.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.NameLengthAnnotation.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.BalanceAdded.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.pdb
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\ApplicationInsights.config
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.dll.config
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.pdb
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.Web.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Optimization.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Antlr3.Runtime.pdb
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Newtonsoft.Json.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.InitialMigration.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccounts.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccounts1.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccountsRokyUser.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.NameLengthAnnotation.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.BalanceAdded.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\V6\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.pdb
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\ApplicationInsights.config
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\roslyn\csc.exe
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\roslyn\System.Collections.Immutable.dll
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\roslyn\vbc.exe
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\roslyn\VBCSCompiler.exe
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\roslyn\VBCSCompiler.exe.config
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.dll.config
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.dll
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.pdb
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.DependencyCollector.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.Web.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.WindowsServer.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.ApplicationInsights.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Helpers.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Mvc.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Optimization.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Razor.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.Deployment.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.Razor.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Antlr3.Runtime.pdb
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Newtonsoft.Json.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\EntityFramework.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\EntityFramework.SqlServer.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.Core.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Facebook.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Cookies.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.OAuth.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Google.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Twitter.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.csprojResolveAssemblyReference.cache
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.InitialMigration.resources
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccounts.resources
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccounts1.resources
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccountsRokyUser.resources
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.NameLengthAnnotation.resources
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.BalanceAdded.resources
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.csproj.GenerateResource.Cache
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.dll
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.pdb
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.AddTransactionModel.resources
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.updateTransactionModel.resources
+E:\dot Net Training Practice\MVC\V7\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.changedatetimetoString.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\ApplicationInsights.config
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.dll.config
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.pdb
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.Web.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Optimization.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Antlr3.Runtime.pdb
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Newtonsoft.Json.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.InitialMigration.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccounts.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccounts1.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccountsRokyUser.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.NameLengthAnnotation.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.BalanceAdded.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.AddTransactionModel.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.updateTransactionModel.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.changedatetimetoString.resources
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.dll
+C:\Users\Web App Develop .Net\Downloads\Hossain  Kabir\Final\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.pdb
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\ApplicationInsights.config
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\roslyn\csc.exe
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\roslyn\System.Collections.Immutable.dll
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\roslyn\vbc.exe
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\roslyn\VBCSCompiler.exe
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\roslyn\VBCSCompiler.exe.config
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.dll.config
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.dll
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\EatmEntityFramework.pdb
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.DependencyCollector.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.Web.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AI.WindowsServer.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.ApplicationInsights.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Helpers.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Mvc.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Optimization.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\System.Web.Razor.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.Deployment.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\System.Web.WebPages.Razor.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Antlr3.Runtime.pdb
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Newtonsoft.Json.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\EntityFramework.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\EntityFramework.SqlServer.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.Core.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Facebook.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Cookies.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.OAuth.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Google.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.Twitter.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.csprojResolveAssemblyReference.cache
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.InitialMigration.resources
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccounts.resources
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccounts1.resources
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.PopulateAccountsRokyUser.resources
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.NameLengthAnnotation.resources
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.BalanceAdded.resources
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.AddTransactionModel.resources
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.updateTransactionModel.resources
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.Migrations.changedatetimetoString.resources
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.csproj.GenerateResource.Cache
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.dll
+E:\dot Net Training Practice\MVC\Final Eatm\EatmEntityFramework\EatmEntityFramework\obj\Debug\EatmEntityFramework.pdb

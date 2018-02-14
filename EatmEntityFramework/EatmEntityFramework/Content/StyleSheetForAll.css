@@ -1,0 +1,34 @@
+﻿body {
+    /*background-color: blue;*/
+}
+
+.middle {
+    /*
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    */
+    align-content:center;
+}
+.centerlookButton{
+   padding-left: 500px;  
+   font-weight: bold;  
+
+}
+.centerlook {
+   padding-left: 400px;  
+   font-weight: bold;  
+}  
+.mainDiv{
+
+   background-color:aqua;
+    
+} 
+#footer { 
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;   /* Height of the footer */
+   background:#000;
+
+}                                                            

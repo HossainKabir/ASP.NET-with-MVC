@@ -1,0 +1,25 @@
+﻿body {
+    background-color:burlywood;
+}
+
+.modal-header{
+    background-color:#2F75AE;
+    
+}
+.modal-sm {
+    width: 300px;
+  }
+.centerlook {
+   padding-left: 400px;  
+   font-weight: bold;  
+}
+.OptionButtonProperty{
+    width:200px;
+    height:50px;
+    margin-top:10px;
+    font-weight:200;
+    font-size:large;
+}
+.signinName{
+   text-decoration-color:white;
+}

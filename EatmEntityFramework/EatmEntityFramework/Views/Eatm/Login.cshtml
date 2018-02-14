@@ -1,0 +1,44 @@
+﻿@model EatmEntityFramework.Models.Account
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (TempData["Error"]!=null)
+{
+    <div class="alert alert-danger" role="alert">
+        <button type="button" class="close" data-dismiss="alert">×</button>
+        <strong>Error !</strong> Invalid Card Number and Password
+    </div>
+}
+
+@using (Html.BeginForm("VerifyAccount", "Eatm", new { style = "display: block;margin-right: auto;margin-left: auto;" }))
+{
+    <br />
+            <br />
+            <div class="centerlook">
+                <div class="centerlook" style=font-size:40px>
+                    Account Login
+                </div>
+                <br />
+                <br />
+
+
+                <div class="form-group centerlook">
+                    @Html.LabelFor(m => m.CardNumber, new { style = "font-size:20px" })
+                    @Html.TextBoxFor(m => m.CardNumber, new { placeholder = "Enter card number", @class = "form-control " })
+
+                </div>
+                <div class="form-group centerlook">
+                    @Html.LabelFor(m => m.Password, new { style = "font-size:20px" })
+                    @Html.PasswordFor(m => m.Password, new { placeholder = "Enter Password", @class = "form-control" })
+                    
+                </div>
+                @Html.HiddenFor(m => m.AccountId)
+                <div class="centerlookButton">
+                    <button type="submit" class="btn btn-primary">Login</button>
+                </div>
+            </div>
+}
+

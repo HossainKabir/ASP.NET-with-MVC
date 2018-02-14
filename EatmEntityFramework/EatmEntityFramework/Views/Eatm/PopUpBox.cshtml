@@ -1,0 +1,51 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PopUpBox</title>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/PopUpStyle.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <div class="centerlook">
+            <button class="btn btn-primary btn-lg centerlook" data-keyboard="false" data-backdrop="static" data-toggle="modal" data-target="#popupbox">Check Balance</button>
+            
+        </div>
+        <div class="modal fade" role="dialog" id="popupbox" tabindex="-1">
+            <div class="modal-dialog modal-sm">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Withdraw Balance</h4>
+                    </div>
+                    <div class="modal-body">
+                        @using (Html.BeginForm())
+                        {
+                            <div class="form-group">
+                                <label for="inputbalance">Withdraw Amount @ViewBag.TotalTransaction</label>
+                                <input class="form-control" placeholder="Enter Amount" type="number" id="inputbalance" />
+                            </div>
+                        }
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-primary">Confirm</button>
+                        <button class="btn btn-danger" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        
+    </div>
+</body>
+</html>

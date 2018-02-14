@@ -1,0 +1,14 @@
+﻿@model List<EatmEntityFramework.Models.Account>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@foreach (var a in Model)
+{
+    <h4>@a.AccountId</h4>
+    <h4>@a.AccountHolderName</h4>
+    <h4>@a.CardNumber</h4>
+
+}
+
